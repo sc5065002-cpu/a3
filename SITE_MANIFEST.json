@@ -1,0 +1,207 @@
+{
+  "domain": "gripfootwear",
+  "niche": "Technical Non-Slip Grip Hosiery & Performance Studio Socks",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "gripfootwear_asset_24.jpg",
+      "size_kb": 205.75,
+      "md5": "71da78bc5a34d74ffdbdeb2ed99b3694",
+      "description": "Artisanal Technical Non-Slip Grip Hosiery & Performance Studio Socks: gripfootwear asset 24",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "gripfootwear_asset_39.jpg",
+      "size_kb": 48.21,
+      "md5": "d73d8d6d0f8ed03eb1142897063eabb1",
+      "description": "Artisanal Technical Non-Slip Grip Hosiery & Performance Studio Socks: gripfootwear asset 39",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "gripfootwear_asset_40.jpg",
+      "size_kb": 242.98,
+      "md5": "5f856c715f5587e5894777e82c820523",
+      "description": "Artisanal Technical Non-Slip Grip Hosiery & Performance Studio Socks: gripfootwear asset 40",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "gripfootwear_asset_46.jpg",
+      "size_kb": 156.05,
+      "md5": "72a9aefee2ee685561931ef5cc43e30e",
+      "description": "Artisanal Technical Non-Slip Grip Hosiery & Performance Studio Socks: gripfootwear asset 46",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "gripfootwear_asset_47.jpg",
+      "size_kb": 154.65,
+      "md5": "71b88f284d461f721318d6f2f0c7bf85",
+      "description": "Artisanal Technical Non-Slip Grip Hosiery & Performance Studio Socks: gripfootwear asset 47",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "gripfootwear_asset_60.jpg",
+      "size_kb": 207.04,
+      "md5": "1924c91fd36ad5ea335aaa81f488471c",
+      "description": "Artisanal Technical Non-Slip Grip Hosiery & Performance Studio Socks: gripfootwear asset 60",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "gripfootwear_asset_61.jpg",
+      "size_kb": 98.04,
+      "md5": "6c7dc14e1c7c21391e5f76b631f26c74",
+      "description": "Artisanal Technical Non-Slip Grip Hosiery & Performance Studio Socks: gripfootwear asset 61",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "gripfootwear_asset_13.jpg",
+      "size_kb": 113.09,
+      "md5": "bf67fe259f36b4453ff364ff9281a0d0",
+      "description": "Bj rn Borg socks 3",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "gripfootwear_asset_38.jpg",
+      "size_kb": 138.36,
+      "md5": "86a33ad63ce828d583ee2d3fd998b56d",
+      "description": "Socks pair woman s AM 2000.68.5",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "gripfootwear_asset_41.jpg",
+      "size_kb": 218.96,
+      "md5": "f57913a8d82d7bd2f7566a4ee15279c5",
+      "description": "Socks pair AM 1934.235 2",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "gripfootwear_asset_42.jpg",
+      "size_kb": 240.8,
+      "md5": "a7dca956dee7157190c72641e4d74f05",
+      "description": "Socks pair AM 1934.235 3",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "gripfootwear_asset_43.jpg",
+      "size_kb": 199.42,
+      "md5": "f6183fc4e06ff721d83b0323d5443a1c",
+      "description": "Socks pair AM 1934.235 4",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "gripfootwear_asset_44.jpg",
+      "size_kb": 170.8,
+      "md5": "6ac79885c8ddbd56947e1027c519a282",
+      "description": "Socks pair infant s AM 1996.69.17",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "gripfootwear_asset_45.jpg",
+      "size_kb": 215.31,
+      "md5": "f1a4b66a4da8415a5ed282baebcb0d00",
+      "description": "Socks pair infant s AM 1996.69.17",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "gripfootwear_asset_55.jpg",
+      "size_kb": 259.1,
+      "md5": "d0a58669971d26e592bbc06f03080c30",
+      "description": "Hand knitted Himachali socks 3",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "gripfootwear_asset_56.jpg",
+      "size_kb": 239.67,
+      "md5": "7f3c6db69a389d5d11284445cf86e1a0",
+      "description": "Hand knitted Himachali socks 4",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "gripfootwear_asset_57.jpg",
+      "size_kb": 261.64,
+      "md5": "1c6d2c24f3d24e79d441e25243fc6869",
+      "description": "Hand Knitted Socks",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "gripfootwear_asset_58.jpg",
+      "size_kb": 148.39,
+      "md5": "9f1a82a08fe73391317447e0e81599ae",
+      "description": "Hand knitted sock",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "gripfootwear_asset_59.jpg",
+      "size_kb": 455.26,
+      "md5": "fcc95a56b551e461e4472968361ba67b",
+      "description": "Hand knitted socks",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "gripfootwear_asset_75.jpg",
+      "size_kb": 146.77,
+      "md5": "fc2b0d1796ea89f4798b2490b8c83182",
+      "description": "Socks pair ankle AM 1996.68.8 1",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://gripfootwear.com/sitemap.xml",
+    "robots": "https://gripfootwear.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
